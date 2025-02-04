@@ -14,6 +14,8 @@ The project uses the following datasets:
 - `Data_Dictionary.md`: Detailed information about the features in the provided datasets.
 - `AZDIAS_Feature_Summary.csv`: Summary of feature attributes for demographics data.
 
+**Note**: The data set is uploaded as a zip file because it's relatively large, unip it first and you are ready :)
+
 ## Steps
 
 ### 1. Data Preprocessing
