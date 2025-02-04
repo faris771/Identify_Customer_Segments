@@ -4,6 +4,8 @@
 
 In this project, we apply unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. The goal is to use these segments to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data used in this project is provided by Bertelsmann Arvato Analytics and represents a real-life data science task.
 
+This project is part of the Palestine Launchpad by **Spark**, and **Udacity** with **Google**. 
+
 ## Data
 
 The project uses the following datasets:
